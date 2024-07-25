@@ -10,12 +10,7 @@
     "name": "typicode"
   },
 
-  "lista": [
-    {
-      "id": 1,
-      "name": "hello"
-    }
-  ],
+  "lista": [],
   
   
 }
