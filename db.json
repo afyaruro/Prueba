@@ -5,14 +5,15 @@
       "title": "hello"
     }
   ],
+  "lista": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
   "profile": {
     "name": "typicode"
   },
-  "lista":[
-
-    {
-    
-    "name": "Hola mundo"}
-  ]
+  
   
 }
